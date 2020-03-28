@@ -1,4 +1,4 @@
 # HighSchool-Projects
 A collection of Java projects developed during my time in computer science courses in high school. 
 
-[Glowing Particles](HighSchool-Projects/Glowing Particles/)
+[Ants](Ants/ants)
