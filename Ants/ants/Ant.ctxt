@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Ant
+comment0.text=\r\n\ An\ ant\ that\ collects\ food.\r\n\ \r\n\ @author\ Michael\ Kolling\r\n\ @version\ 0.1\r\n
+comment1.params=home
+comment1.target=Ant(AntHill)
+comment1.text=\r\n\ Create\ an\ ant\ with\ a\ given\ home\ hill.\ The\ initial\ speed\ is\ zero\ (not\ moving).\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Do\ what\ an\ ant's\ gotta\ do.\r\n
+comment3.params=
+comment3.target=void\ searchForFood()
+comment4.params=
+comment4.target=void\ addPheromone()
+comment5.params=
+comment5.target=void\ lookForHome()
+comment6.params=ph
+comment6.target=void\ walkTowardsPheromone(Pheromone)
+numComments=7
