@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Knight
+comment1.params=
+comment1.target=Knight()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ die()
+comment3.text=\r\n\ die\r\n\ Used\ by\ other\ classes\ to\ remove\ the\ knight\ from\ the\ world\r\n
+numComments=4

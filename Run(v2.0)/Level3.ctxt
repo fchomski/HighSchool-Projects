@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Level3
+comment1.params=pig
+comment1.target=Level3(Pig)
+comment2.params=
+comment2.target=void\ removeLives()
+comment2.text=\r\n\ removeLives\r\n\ Takes\ away\ lives\ and\ updates\ the\ hearts\r\n
+comment3.params=
+comment3.target=void\ act()
+comment4.params=position
+comment4.target=void\ paint(int)
+comment4.text=\r\n\ paint\r\n\ Sets\ the\ background\ image\r\n
+comment5.params=
+comment5.target=void\ addScore()
+comment5.text=\r\n\ addScore\r\n\ Used\ by\ pig\ to\ add\ to\ the\ score\r\n
+comment6.params=
+comment6.target=Counter\ getScore()
+comment6.text=\r\n\ getScore\r\n\ Used\ to\ return\ the\ current\ score\r\n
+comment7.params=
+comment7.target=void\ update()
+comment7.text=\r\n\ update\r\n\ Updates\ the\ heart\ images\ in\ top\ left\ corner\ of\ screen\r\n
+comment8.params=
+comment8.target=void\ prepare()
+comment8.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\ That\ is\:\ create\ the\ initial\r\n\ objects\ and\ add\ them\ to\ the\ world.\r\n
+numComments=9

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Coins
+comment1.params=
+comment1.target=Coins()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ activateMagnet()
+comment3.text=\r\n\ activateMagnet\r\n\ Called\ by\ the\ pig\ class\ to\ make\ coins\ move\ towards\ center\ of\ magnet\r\n
+numComments=4
