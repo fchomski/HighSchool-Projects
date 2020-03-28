@@ -3,10 +3,8 @@ import java.util.*;
 import greenfoot.*;
 
 /**
- * Write a description of class Food here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Florencia Chomski
+ * @version August 5, 2017
  */
 public class Food extends Actor
 {
