@@ -4,8 +4,8 @@ Simulates Leonardo da Vinci's speculation about tree branches at varying heights
 ## Screenshots
 As the program is run, a tree is drawn live on-screen using vector objects
 
-![tree1](https://github.com/fchomski/HighSchool-Projects/blob/master/Glowing%20Particles/screenshots/openingscreen.jpg)
-![tree2](https://github.com/fchomski/HighSchool-Projects/blob/master/Glowing%20Particles/screenshots/openingscreen.jpg)
+![tree1](https://github.com/fchomski/HighSchool-Projects/blob/master/Leonardo's%20Tree/screenshots/tree1.jpg)
+![tree2](https://github.com/fchomski/HighSchool-Projects/blob/master/Leonardo's%20Tree/screenshots/tree2.jpg)
 
 ## About
 Created for CS30S - Grade 11 Computer Science | 2016 | Florencia Chomski
