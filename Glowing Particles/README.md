@@ -1,2 +1,2 @@
-# High School Projects
-A collection of Java projects developed during my time in computer science courses in high school. 
+# Glowing Particles
+A simple program in which colourful particles glow if the pointer reaches a close proximity. Particles then 'disappear' into the backdrop once out of radius.
