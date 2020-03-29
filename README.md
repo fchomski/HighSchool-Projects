@@ -11,6 +11,6 @@ _Created for CS30S - Grade 11 Computer Science | 2016 | Florencia Chomski_
 ### [MineSweeper](https://github.com/fchomski/HighSchool-Projects/tree/master/Minesweeper)
 Language: ```Java```  
 
-A re-creation of the classic destop game Minesweeper.
+A re-creation of the classic desktop game Minesweeper.
 
 _Created for CS30S - Grade 11 Computer Science | 2016 | Florencia Chomski_
