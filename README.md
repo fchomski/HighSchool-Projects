@@ -1,5 +1,5 @@
 # High School Projects
-A collection of Java projects developed during my time in computer science courses in high school. 
+A collection of Java projects developed during my time in computer science courses in high school. All developed in Java using Greenfoot.
 
 ### [Glowing Particles](https://github.com/fchomski/HighSchool-Projects/tree/master/Glowing%20Particles)
 Language: ```Java```  
