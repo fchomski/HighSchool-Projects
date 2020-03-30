@@ -1,3 +1,0 @@
-PROJECT TITLE: Snake
-VERSION or DATE: 2016
-AUTHORS: Florencia Chomski
