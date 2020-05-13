@@ -8,12 +8,19 @@ A simple program in which colourful particles glow if the pointer reaches a clos
 
 _Created for CS30S - Grade 11 Computer Science | 2016 | Florencia Chomski_
 
-### [MineSweeper](https://github.com/fchomski/HighSchool-Projects/tree/master/Minesweeper)
+### [Minesweeper](https://github.com/fchomski/HighSchool-Projects/tree/master/Minesweeper)
 Language: ```Java```  
 
 A re-creation of the classic desktop game Minesweeper.
 
 _Created for CS30S - Grade 11 Computer Science | 2016 | Florencia Chomski_
+
+### [Run](https://github.com/fchomski/HighSchool-Projects/tree/master/Run(v2.0))
+Language: ```Java```  
+
+A platform game with multiple levels. Players avoid enemies, collect coins, and aim to reach the final target.
+
+_Created for CS40S - Grade 12 Computer Science | 2017 | Florencia Chomski_
 
 ### [Snake](https://github.com/fchomski/HighSchool-Projects/tree/master/Snake)
 Language: ```Java```  
