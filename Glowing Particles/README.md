@@ -4,7 +4,7 @@ A simple program in which colourful particles glow if the pointer reaches a clos
 ## Screenshots
 The opening screen shows the positioning of all particles. The pointer begins in the middle of the screen.
 
-![opening screen](https://github.com/fchomski/HighSchool-Projects/blob/master/Glowing%20Particles/screenshots/openingscreen.jpg)
+![opening screen](https://github.com/fchomski/HighSchool-Projects/blob/master/Glowing%20Particles/screenshots/openingscreen.jpg | width = 200)
 
 When the file is run, the particles fade into the background. As the pointer is moved using the arrows on your keyboard, the particles near it glow. Particles slowly fade back into the background once the pointer has moved out of its radius
 
