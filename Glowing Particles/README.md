@@ -13,4 +13,4 @@ When the file is run, the particles fade into the background. As the pointer is 
 </p>
 
 ## About
-Created for CS30S - Grade 11 Computer Science | 2016 | Florencia Chomski
+_Created for CS30S - Grade 11 Computer Science | 2016 | Florencia Chomski_
