@@ -18,4 +18,4 @@ If you click on a mine, the game ends and all mines are revealed.
 </p>
 
 ## About
-Created for CS30S - Grade 11 Computer Science | 2016 | Florencia Chomski
+_Created for CS30S - Grade 11 Computer Science | 2016 | Florencia Chomski_
