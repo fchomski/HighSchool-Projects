@@ -9,6 +9,7 @@ The opening screen shows the positioning of all particles. The pointer begins in
 
 When the file is run, the particles fade into the background. As the pointer is moved using the arrows on your keyboard, the particles near it glow. Particles slowly fade back into the background once the pointer has moved out of its radius
 <p align ="center">
+  <video src="https://github.com/fchomski/HighSchool-Projects/blob/master/Glowing%20Particles/screenshots/glowingparticles.mp4" width ="600"></video>
   <img src = https://github.com/fchomski/HighSchool-Projects/blob/master/Glowing%20Particles/screenshots/motion1.jpg width ="600"/>
   <img src = https://github.com/fchomski/HighSchool-Projects/blob/master/Glowing%20Particles/screenshots/motion2.jpg width ="600"/>
 </p>
