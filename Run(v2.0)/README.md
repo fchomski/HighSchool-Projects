@@ -1,5 +1,5 @@
 # Run (2.0)
-A platform game in which players travel through various levels to complete through the use of the arrow keys on one's keyboard. Users aim to reach the portal and collect as many coins as possible while avoiding knights. Should a player run into a knight, they lose a life. Five lives are given per level and a score is counted throughout the game. The full instructions of the game are given in an opening card at runtime.
+A platform game in which players travel through various levels. Users aim to reach the portal and collect as many coins as possible while avoiding enemies (knights). Should a player run into a knight, they lose a life. Five lives are given per level and a score is counted throughout the game. The full instructions of the game are given in an opening card at runtime.
 
 
 ## Screenshots
