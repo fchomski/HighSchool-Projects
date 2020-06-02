@@ -37,11 +37,11 @@ Level 3:
 
 ## Fixes
 This game was developed with a strict time restraint and thus has a few bugs and improvements that can be made. I hope to fix these at a later time. These include:
-* Some gltching in the background image movement
+* Some glitching in the background image movement
 * The main character can sometimes appear to move through platforms
 * Score should be aggregated through all levels and displayed at the end should the user win the final level
-* Consider giving players 5 lives for the entirety of the game, and not per level
+* Consider giving players five lives for the entirety of the game, and not per level
 
 
 ## About
-Created for CS40S - Grade 12 Computer Science | 2017 | Florencia Chomski
+_Created for CS40S - Grade 12 Computer Science | 2017 | Florencia Chomski_
